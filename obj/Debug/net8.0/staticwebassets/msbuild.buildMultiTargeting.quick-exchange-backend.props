@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\quick-exchange-backend.props" />
+</Project>
