@@ -30,3 +30,15 @@ C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchan
 C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\obj\Debug\net8.0\quick-exchange-backend.pdb
 C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\obj\Debug\net8.0\quick-exchange-backend.genruntimeconfig.cache
 C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\obj\Debug\net8.0\ref\quick-exchange-backend.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\System.Management.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\obj\Debug\net8.0\quick-exchange-backend.sourcelink.json
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Elvis Crespo\Documents\2024\C-SHARP\quick-exchange-backend\quick-exchange-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

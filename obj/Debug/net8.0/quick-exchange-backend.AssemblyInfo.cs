@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quick-exchange-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c9389668ce896f2ad04ae18c7c8ab0d76ac97e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("quick-exchange-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quick-exchange-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

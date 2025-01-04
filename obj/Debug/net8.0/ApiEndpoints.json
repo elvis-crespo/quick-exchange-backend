@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "quick_exchange_backend.Controllers.AuthController",
+    "Method": "Callback",
+    "RelativePath": "api/auth/callback",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "quick_exchange_backend.Controllers.AuthController",
+    "Method": "GoogleLoginHandle",
+    "RelativePath": "api/auth/google-login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "quick_exchange_backend.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
